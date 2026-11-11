@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: API REST para clientes, empresas, productos, ventas y facturas de Swift Invoice.
 servers:
-  - url: /Proyecto-Swifty/api/v1
+  - url: /swift_invoice/api/v1
     description: URL local de Apache; ajusta el prefijo al desplegar en otra ruta
 tags:
   - name: Auth
